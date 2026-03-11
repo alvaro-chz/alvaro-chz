@@ -22,7 +22,7 @@ A comprehensive core banking architecture designed for the cloud.
 #### 🏥 [HealthTech Management System](https://github.com/antidv/BD-HealthTech)
 Medical appointment and patient records management platform.
 * **Tech:** Node.js, Express, React, PostgreSQL, MariaDB.
-* **Highlights:** Successful migration of historical data from a legacy MariaDB system to a normalized PostgreSQL schema, ensuring zero data loss and maintaining referential integrity.
+* **Highlights:** Co-developed the backend services and successfully executed the data migration from a legacy MariaDB system to a normalized PostgreSQL schema, ensuring zero data loss and referential integrity.
 
 ---
 
